@@ -10,3 +10,4 @@ risc0-build = "0.10"
 
 [dependencies]
 risc0-zkvm-guest = "0.10"
+serde = { version = "1.0", features = ["derive"] }
